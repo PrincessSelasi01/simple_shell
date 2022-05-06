@@ -2,21 +2,6 @@
 This project was built by Stephen and Princess.
 Table of Contents
 
-    Authors
-    How To Use
-    .explanation
-
-Authors
-
-header
-
-👤 Blessing
-
-    Github: @Blessingdev233
-
-👤 Edith
-
-    Github: @EdithPink
 
 How To Use
 How to compile

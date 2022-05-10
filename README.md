@@ -1,4 +1,7 @@
 # simple_shell
+<<<<<<< HEAD
+this project is done by Suetor Princess Selasi and Stephen Nii Armah Ayitiah
+=======
 This project was built by Stephen and Princess.
 Table of Contents
 
@@ -29,3 +32,5 @@ the program is execute and the prompt is print, and wait for the user.
 
 $ ./hsh
 ($)
+>>>>>>> d7dfa24c3b129108b85d35185af694b1e9acc703
+~intense fix

@@ -1,2 +1,2 @@
 # simple_shell
-shell project
+this project is done by Suetor Princess Selasi and Stephen Nii Armah Ayitiah
